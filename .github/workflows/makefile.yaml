@@ -1,0 +1,16 @@
+name: Run Makefile targets
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run Tests
+        run: make test 
+      
+      - name: Run Build
+        run: make build
