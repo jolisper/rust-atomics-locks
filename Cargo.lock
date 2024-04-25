@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "lifetime-mutexguard"
+version = "0.1.0"
+
+[[package]]
 name = "scoped-threads"
 version = "0.1.0"
