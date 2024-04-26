@@ -2,4 +2,4 @@
 
 resolver = "2"
 
-members = [ "1. Basics of Rust Concurrency/lifetime-mutexguard","1. Basics of Rust Concurrency/scoped-threads"]
+members = [ "1. Basics of Rust Concurrency/lifetime-mutexguard","1. Basics of Rust Concurrency/scoped-threads", "2. Atomics/stop-flag"]

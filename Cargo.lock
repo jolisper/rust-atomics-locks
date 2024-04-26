@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "scoped-threads"
 version = "0.1.0"
+
+[[package]]
+name = "stop-flag"
+version = "0.1.0"
