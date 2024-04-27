@@ -7,6 +7,10 @@ name = "lifetime-mutexguard"
 version = "0.1.0"
 
 [[package]]
+name = "progress-reporting-parking"
+version = "0.1.0"
+
+[[package]]
 name = "scoped-threads"
 version = "0.1.0"
 
